@@ -1,0 +1,12 @@
+name = "webiyar"
+main = "src/index.ts"
+compatibility_date = "2024-10-22"
+workers_dev = true
+
+[vars]
+DEFAULT_LOCALE = "fa"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "webiyar"
+database_id = "00000000-0000-0000-0000-000000000000"
